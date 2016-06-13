@@ -5,13 +5,13 @@ module Inn
 end
 
 class String
-  include In
+  include Inn
 end
 
 class Integer
-  include In
+  include Inn
 end
 
 class Float
-  include In
+  include Inn
 end
