@@ -1,20 +1,20 @@
 # in
 In module for ruby
-
-## Adds the .in? method to Strings, Arrays, and Floats
+Adds the `.in?` method to `Strings`, `Arrays`, and `Floats`
 
 
 ## Usage
 ```
-require 'In'
+require './in.rb'
 
-str1 = "derp"
-str2 = "nope"
-arr = ["derp","merp","werp"]
+musician1 = "john"
+musician2 = "pete"
+beatles = ["john","paul","george","ringo"]
 
-str1.in? arr
+musician1.in? beatles
 => true
 
-str2.in? arr
+musician2.in? beatles
 => false
 ```
+
