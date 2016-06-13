@@ -1,11 +1,11 @@
-# in
+# inn gem
 In module for ruby
 Adds the `.in?` method to `Strings`, `Arrays`, and `Floats`
 
 
 ## Usage
 ```
-require './in.rb'
+require './inn.rb'
 
 musician1 = "john"
 musician2 = "pete"

@@ -1,4 +1,4 @@
-module In
+module Inn
   def in?(arr)
     arr.include? self
   end
