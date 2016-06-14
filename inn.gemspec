@@ -8,5 +8,5 @@ Gem::Specification.new do |s|
   s.email       = 'doug@prettyinstant.com'
   s.files       = ["lib/inn.rb"]
   s.homepage    ='http://rubygems.org/gems/inn'
-  s.license       = 'MIT'
+  s.license     = 'MIT'
 end
