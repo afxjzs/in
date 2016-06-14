@@ -1,5 +1,5 @@
 # inn gem
-Adds the `.in?` method to `Strings`, `Arrays`, and `Floats`
+Adds the `.in?` method to objects in other objects that respond to an `.include?` method.
 
 
 ## Usage
