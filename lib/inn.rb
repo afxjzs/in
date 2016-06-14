@@ -1,17 +1,5 @@
-module Inn
-  def in?(arr)
-    arr.include? self
+class Object
+  def in?(obj)
+    obj.include?(self) if obj.respond_to? :include?
   end
-end
-
-class String
-  include Inn
-end
-
-class Integer
-  include Inn
-end
-
-class Float
-  include Inn
 end
