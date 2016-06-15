@@ -1,3 +1,8 @@
+0.0.4
+-----
+* [Added tests](https://github.com/afxjzs/inn/tree/master/test)
+* [Added this changelog](https://github.com/afxjzs/inn/blob/master/CHANGELOG.md)
+
 0.0.3
 -----
  * [Posted this on reddit and using feedback to make it better.](https://www.reddit.com/r/ruby/comments/4nycpe/made_my_first_ruby_gem_it_adds_an_in_method_to/)
@@ -5,7 +10,7 @@
 
 0.0.2
 -----
- * I started writing this on v0.0.03 so this is just filler. sorry.
+ * I started writing this halfway through v0.0.3 so this is just filler. sorry.
 
 0.0.1
 -----
