@@ -1,6 +1,7 @@
 0.0.5
 -----
 * [Refactored to rm redundant `responds_to` check](https://github.com/afxjzs/inn/blob/master/lib/inn.rb#L8)
+* [Added Inn::Version constant](https://github.com/afxjzs/inn/blob/master/lib/inn/version.rb)
 
 0.0.4
 -----
